@@ -58,12 +58,20 @@ Welcome to the **Data Analysis with Python** repository! This repo showcases my 
 📌 **[Project Folder: Grocery_Sales_Analysis](./Grocery_Sales_Analysis/)**  
 
 ---
+### 4️⃣ **Weather data prediction using Logistic Regression in Excel**  
+   - **Description:** Sourced Government datasets on weather for Pune city , cleaned it processed it in excel. Used categorical data as depndent variable and predicted certain factors like rainfalll, high temp days etc.
+   - **Tech Stack:** `Excel`, `Logistic regression`
+   - **Key Highlights:**
+     - Built a Logistic regression model from scratch in Excel and Solver
+     - Analyzed over 15 different fields and selectd the most dominating factors from them
+     - Got accuracy of 78% initially then cleaned my dtaset a bit and removed outliers and applied NRG in solver to get 91% accuravcy significant increase in accuracy.  
+
+📌 **[Weather data analysis]**  
 
 ## 🛠️ Tech Stack & Tools  
-✔ **Python** - `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`, `nltk`  
-✔ **Machine Learning** - `Random Forest`, `SVM`, `Stacking`, `NLP`  
-✔ **Visualization** - `Matplotlib`, `Seaborn`, `Plotly`  
-✔ **EDA (Exploratory Data Analysis)** - `Pandas Profiling`, `Heatmaps`, `Correlation Plots`  
+✔ **Excel** - `Solver`, `Data Analysis`, `XLSTAT`, 
+✔ **Machine Learning** - `Logistic regression`, `biinary classification` 
+✔ **Visualization** - `Bar charts`, `Pie charts`, `Regression analysis`   
 
 ---
 
